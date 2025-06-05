@@ -1,0 +1,23 @@
+export const FieldTypes = [
+	"text",
+	"email",
+	"password",
+	"tel",
+	"checkbox",
+	"radio",
+	"file",
+	"color",
+	"hidden",
+	"submit",
+	"image",
+	"range",
+	"search",
+	"button",
+	"date",
+	"datetime-local",
+	"select",
+	"textarea",
+	"heading",
+	"divider",
+	"section"
+];

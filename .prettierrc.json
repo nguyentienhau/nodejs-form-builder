@@ -1,0 +1,16 @@
+{
+	"useTabs": true,
+	"tabWidth": 4,
+	"endOfLine": "crlf",
+	"trailingComma": "none",
+	"printWidth": 120,
+	"overrides": [
+		{
+			"files": "**/*.svg",
+			"options": {
+				"parser": "html",
+				"htmlWhitespaceSensitivity": "ignore"
+			}
+		}
+	]
+}
